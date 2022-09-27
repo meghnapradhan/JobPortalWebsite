@@ -18,5 +18,4 @@
 ![App Screenshot](https://user-images.githubusercontent.com/90974894/192429256-362ab4d8-4749-4bbf-b3c6-22ecd4eba8dc.png)
 
 
-## 🔗Website Links
-https://github.com/meghnapradhan/JobPortalWebsite
+
