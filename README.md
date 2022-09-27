@@ -4,7 +4,6 @@
 ## Tools and Technology used
 
  - HTML
- - CSS
  - php
  - Mysql
  - xampp
